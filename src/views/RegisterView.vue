@@ -171,7 +171,7 @@ const handleRegister = async () => {
       <div class="relative hidden h-screen bg-[#1846D0] lg:block">
         <div class="relative flex h-full w-full items-center justify-center overflow-hidden">
           <img
-            src="@/assets/Images/vector.png"
+            src="@/assets/Images/Vector.png"
             alt="Background shape"
             class="w-[82%] max-w-[560px] object-contain"
           />
